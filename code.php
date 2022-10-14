@@ -1,3 +1,5 @@
+<?php
+
 /*
 Код предполагается использовать в init.php
 */
@@ -51,3 +53,4 @@ class CatalogException
 		 }
    }
 }
+
